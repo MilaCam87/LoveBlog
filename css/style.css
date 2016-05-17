@@ -1,0 +1,26 @@
+.logo {
+  display: inline;
+  text-align: center; }
+  .logo a h1 {
+    color: #E8603C;
+    float: left; }
+    .logo a h1 a {
+      float: right; }
+    .logo a h1 span {
+      color: #F3AF9D; }
+
+.mainmenu {
+  text-align: right;
+  color: #BCBCBC; }
+  .mainmenu .active {
+    color: #E8663C; }
+  .mainmenu a {
+    list-style: none; }
+  .mainmenu li {
+    display: inline; }
+
+.ei-slider-large {
+  text-align: center;
+  max-width: 100%; }
+
+/*# sourceMappingURL=style.css.map */

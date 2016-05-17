@@ -1,0 +1,33 @@
+.logo {
+	display: inline;
+	text-align:center;
+	a h1 {
+		color: #E8603C;
+		float: left;
+		a {
+			float: right;
+		}
+		span {
+			color: #F3AF9D;
+		}
+	}
+}
+
+.mainmenu {
+	text-align: right;
+	color: #BCBCBC;
+	.active {
+		color: #E8663C;
+	}
+	a {
+		list-style: none;
+	}
+	li {
+		display: inline;
+	}
+}
+
+.ei-slider-large {
+	text-align:center;
+	max-width: 100%;
+}
